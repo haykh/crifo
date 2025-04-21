@@ -12,13 +12,13 @@ crifo
 
 `Enter` key copies the last output to the clipboard.
 
-![demo-1](./demo/demo-1.png)
+![demo-1](./demo/demo-1.webp)
 
-![demo-2](./demo/demo-2.png)
+![demo-2](./demo/demo-2.webp)
 
-![demo-3](./demo/demo-3.png)
+![demo-3](./demo/demo-3.webp)
 
-![demo-4](./demo/demo-4.png)
+![demo-4](./demo/demo-4.webp)
 
 ## Building from source
 
